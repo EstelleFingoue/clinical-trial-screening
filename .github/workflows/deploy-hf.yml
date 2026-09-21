@@ -2,9 +2,6 @@ name: Deploy Hugging Face Space
 
 on:
   workflow_dispatch:
-  workflow_run:
-    workflows: ["CI", "Privacy"]
-    types: [completed]
 
 permissions:
   contents: read
@@ -14,18 +11,25 @@ jobs:
     if: >-
       github.ref == 'refs/heads/main' &&
       vars.HF_DEPLOY_ENABLED == 'true' &&
-      vars.HF_SPACE_ID != '' &&
-      secrets.HF_TOKEN != ''
+      vars.HF_SPACE_ID != ''
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
       - name: Push validated revision to Space
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
           HF_SPACE_ID: ${{ vars.HF_SPACE_ID }}
         run: |
+          test -n "$HF_TOKEN" || {
+            echo "Le secret HF_TOKEN est absent"
+            exit 1
+          }
+
           git remote add huggingface \
             "https://oauth2:${HF_TOKEN}@huggingface.co/spaces/${HF_SPACE_ID}"
+
           git push huggingface HEAD:main --force
