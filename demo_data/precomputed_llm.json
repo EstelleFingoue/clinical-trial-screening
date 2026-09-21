@@ -1,0 +1,1658 @@
+{
+  "072111adbaa277c792270898597915450dada0bfc95a0b781b3c74e66cf9decc": {
+    "variables": {
+      "adenocarcinome": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "atteinte_ganglionnaire": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "autre_cancer_recent": {
+        "citation": "Autre cancer récent : non.",
+        "value": false
+      },
+      "chimiotherapie_anterieure": {
+        "citation": "Chimiothérapie antérieure : oui.",
+        "value": true
+      },
+      "comorbidite_cardiaque": {
+        "citation": "Comorbidité cardiaque majeure : non.",
+        "value": false
+      },
+      "comorbidite_infectieuse": {
+        "citation": "Comorbidité infectieuse majeure : non.",
+        "value": false
+      },
+      "creatinine": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "diabete": {
+        "citation": "Diabète : non.",
+        "value": false
+      },
+      "ecog": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "fonction_pulmonaire": {
+        "citation": "Insuffisance pulmonaire majeure : non.",
+        "value": false
+      },
+      "gleason": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "grade_isup": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "hemoglobine": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "nombre_carottes": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "prostatectomie_anterieure": {
+        "citation": "Prostatectomie antérieure : non.",
+        "value": false
+      },
+      "psa_diagnostic": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "radiotherapie_anterieure": {
+        "citation": "Radiothérapie antérieure : non.",
+        "value": false
+      },
+      "stade_t": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "statut_metastatique": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "toucher_rectal": {
+        "citation": "Toucher rectal : suspect.",
+        "value": "suspect"
+      },
+      "traitement_hormonal_anterieur": {
+        "citation": "Traitement hormonal antérieur : non.",
+        "value": false
+      },
+      "volume_prostatique": {
+        "citation": "",
+        "value": "Non_mentionne"
+      }
+    }
+  },
+  "088d5cf35651baa334e9fb64d8a723832a42b4354edec9ab925151bb250e148e": {
+    "variables": {
+      "adenocarcinome": {
+        "citation": "Adénocarcinome prostatique identifié.",
+        "value": true
+      },
+      "atteinte_ganglionnaire": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "autre_cancer_recent": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "chimiotherapie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "comorbidite_cardiaque": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "comorbidite_infectieuse": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "creatinine": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "diabete": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "ecog": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "fonction_pulmonaire": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "gleason": {
+        "citation": "Score de Gleason : 8 (4+4).",
+        "value": "8 (4+4)"
+      },
+      "grade_isup": {
+        "citation": "Grade ISUP : 4.",
+        "value": 4
+      },
+      "hemoglobine": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "nombre_carottes": {
+        "citation": "12 carottes analysées.",
+        "value": 12
+      },
+      "prostatectomie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "psa_diagnostic": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "radiotherapie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "stade_t": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "statut_metastatique": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "toucher_rectal": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "traitement_hormonal_anterieur": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "volume_prostatique": {
+        "citation": "",
+        "value": "Non_mentionne"
+      }
+    }
+  },
+  "3bcefbbae86c88409be93a5b9b3d0cb4001eeffb9c460ef57433a64225c22584": {
+    "variables": {
+      "adenocarcinome": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "atteinte_ganglionnaire": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "autre_cancer_recent": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "chimiotherapie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "comorbidite_cardiaque": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "comorbidite_infectieuse": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "creatinine": {
+        "citation": "Créatininémie : 82 µmol/L.",
+        "value": 82
+      },
+      "diabete": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "ecog": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "fonction_pulmonaire": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "gleason": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "grade_isup": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "hemoglobine": {
+        "citation": "Hémoglobine : 14.2 g/dL.",
+        "value": 14.2
+      },
+      "nombre_carottes": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "prostatectomie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "psa_diagnostic": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "radiotherapie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "stade_t": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "statut_metastatique": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "toucher_rectal": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "traitement_hormonal_anterieur": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "volume_prostatique": {
+        "citation": "",
+        "value": "Non_mentionne"
+      }
+    }
+  },
+  "44353713b16c98bf521cd1a3149c969cb897d2cbb6dc35b4b471312d45ce56bc": {
+    "variables": {
+      "adenocarcinome": {
+        "citation": "Adénocarcinome prostatique identifié.",
+        "value": true
+      },
+      "atteinte_ganglionnaire": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "autre_cancer_recent": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "chimiotherapie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "comorbidite_cardiaque": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "comorbidite_infectieuse": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "creatinine": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "diabete": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "ecog": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "fonction_pulmonaire": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "gleason": {
+        "citation": "Score de Gleason : 7 (4+3).",
+        "value": "7 (4+3)"
+      },
+      "grade_isup": {
+        "citation": "Grade ISUP : 4.",
+        "value": 4
+      },
+      "hemoglobine": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "nombre_carottes": {
+        "citation": "12 carottes analysées.",
+        "value": 12
+      },
+      "prostatectomie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "psa_diagnostic": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "radiotherapie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "stade_t": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "statut_metastatique": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "toucher_rectal": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "traitement_hormonal_anterieur": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "volume_prostatique": {
+        "citation": "",
+        "value": "Non_mentionne"
+      }
+    }
+  },
+  "5c1fa9f28f5951c06b8be96e8529ddfc7249b5a694b4fcf566128acb1e3f282e": {
+    "variables": {
+      "adenocarcinome": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "atteinte_ganglionnaire": {
+        "citation": "Atteinte ganglionnaire N0.",
+        "value": "N0"
+      },
+      "autre_cancer_recent": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "chimiotherapie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "comorbidite_cardiaque": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "comorbidite_infectieuse": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "creatinine": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "diabete": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "ecog": {
+        "citation": "ECOG 2.",
+        "value": 2
+      },
+      "fonction_pulmonaire": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "gleason": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "grade_isup": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "hemoglobine": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "nombre_carottes": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "prostatectomie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "psa_diagnostic": {
+        "citation": "PSA diagnostique : 28 ng/mL.",
+        "value": 28
+      },
+      "radiotherapie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "stade_t": {
+        "citation": "Stade clinique T3a.",
+        "value": "T3a"
+      },
+      "statut_metastatique": {
+        "citation": "Statut métastatique M0.",
+        "value": "M0"
+      },
+      "toucher_rectal": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "traitement_hormonal_anterieur": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "volume_prostatique": {
+        "citation": "Volume prostatique : 55 cc.",
+        "value": 55
+      }
+    }
+  },
+  "67872c91262c975089090fa238a849400d46b353efe8fca9f1d29f02a1965b2a": {
+    "variables": {
+      "adenocarcinome": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "atteinte_ganglionnaire": {
+        "citation": "Atteinte ganglionnaire N0.",
+        "value": "N0"
+      },
+      "autre_cancer_recent": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "chimiotherapie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "comorbidite_cardiaque": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "comorbidite_infectieuse": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "creatinine": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "diabete": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "ecog": {
+        "citation": "ECOG 1.",
+        "value": 1
+      },
+      "fonction_pulmonaire": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "gleason": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "grade_isup": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "hemoglobine": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "nombre_carottes": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "prostatectomie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "psa_diagnostic": {
+        "citation": "PSA diagnostique : 31 ng/mL.",
+        "value": 31
+      },
+      "radiotherapie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "stade_t": {
+        "citation": "Stade clinique T3a.",
+        "value": "T3a"
+      },
+      "statut_metastatique": {
+        "citation": "Statut métastatique M0.",
+        "value": "M0"
+      },
+      "toucher_rectal": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "traitement_hormonal_anterieur": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "volume_prostatique": {
+        "citation": "Volume prostatique : 72 cc.",
+        "value": 72
+      }
+    }
+  },
+  "6d8acd7f587e3a94d49c7bc1eddbc96b3184aa7b3f05d1fc810970d70c91c909": {
+    "variables": {
+      "adenocarcinome": {
+        "citation": "Adénocarcinome prostatique identifié.",
+        "value": true
+      },
+      "atteinte_ganglionnaire": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "autre_cancer_recent": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "chimiotherapie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "comorbidite_cardiaque": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "comorbidite_infectieuse": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "creatinine": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "diabete": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "ecog": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "fonction_pulmonaire": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "gleason": {
+        "citation": "Score de Gleason : 8 (4+4).",
+        "value": "8 (4+4)"
+      },
+      "grade_isup": {
+        "citation": "Grade ISUP : 4.",
+        "value": 4
+      },
+      "hemoglobine": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "nombre_carottes": {
+        "citation": "12 carottes analysées.",
+        "value": 12
+      },
+      "prostatectomie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "psa_diagnostic": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "radiotherapie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "stade_t": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "statut_metastatique": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "toucher_rectal": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "traitement_hormonal_anterieur": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "volume_prostatique": {
+        "citation": "",
+        "value": "Non_mentionne"
+      }
+    }
+  },
+  "706ae4e23381099e2270c4b913c6c0aa3c2e67b3812a8300739b33b80c33ee9f": {
+    "variables": {
+      "adenocarcinome": {
+        "citation": "Adénocarcinome prostatique identifié.",
+        "value": true
+      },
+      "atteinte_ganglionnaire": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "autre_cancer_recent": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "chimiotherapie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "comorbidite_cardiaque": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "comorbidite_infectieuse": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "creatinine": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "diabete": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "ecog": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "fonction_pulmonaire": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "gleason": {
+        "citation": "Score de Gleason : 8 (4+4).",
+        "value": "8 (4+4)"
+      },
+      "grade_isup": {
+        "citation": "Grade ISUP : 4.",
+        "value": 4
+      },
+      "hemoglobine": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "nombre_carottes": {
+        "citation": "12 carottes analysées.",
+        "value": 12
+      },
+      "prostatectomie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "psa_diagnostic": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "radiotherapie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "stade_t": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "statut_metastatique": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "toucher_rectal": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "traitement_hormonal_anterieur": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "volume_prostatique": {
+        "citation": "",
+        "value": "Non_mentionne"
+      }
+    }
+  },
+  "715d629fa08bb74d0b0f4e5fcffa40486fc09c8ccc28b2f4f836788af7199cdb": {
+    "variables": {
+      "adenocarcinome": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "atteinte_ganglionnaire": {
+        "citation": "Atteinte ganglionnaire N1.",
+        "value": "N1"
+      },
+      "autre_cancer_recent": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "chimiotherapie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "comorbidite_cardiaque": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "comorbidite_infectieuse": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "creatinine": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "diabete": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "ecog": {
+        "citation": "ECOG 0.",
+        "value": 0
+      },
+      "fonction_pulmonaire": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "gleason": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "grade_isup": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "hemoglobine": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "nombre_carottes": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "prostatectomie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "psa_diagnostic": {
+        "citation": "PSA diagnostique : 28 ng/mL.",
+        "value": 28
+      },
+      "radiotherapie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "stade_t": {
+        "citation": "Stade clinique T3a.",
+        "value": "T3a"
+      },
+      "statut_metastatique": {
+        "citation": "Statut métastatique M1b.",
+        "value": "M1b"
+      },
+      "toucher_rectal": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "traitement_hormonal_anterieur": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "volume_prostatique": {
+        "citation": "Volume prostatique : 55 cc.",
+        "value": 55
+      }
+    }
+  },
+  "97a42bddd4d46e0db399eef6ce41cac5f86fc768375e618f610884628893eee6": {
+    "variables": {
+      "adenocarcinome": {
+        "citation": "Adénocarcinome prostatique identifié.",
+        "value": true
+      },
+      "atteinte_ganglionnaire": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "autre_cancer_recent": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "chimiotherapie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "comorbidite_cardiaque": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "comorbidite_infectieuse": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "creatinine": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "diabete": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "ecog": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "fonction_pulmonaire": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "gleason": {
+        "citation": "Score de Gleason : 8 (4+4).",
+        "value": "8 (4+4)"
+      },
+      "grade_isup": {
+        "citation": "Grade ISUP : 4.",
+        "value": 4
+      },
+      "hemoglobine": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "nombre_carottes": {
+        "citation": "12 carottes analysées.",
+        "value": 12
+      },
+      "prostatectomie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "psa_diagnostic": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "radiotherapie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "stade_t": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "statut_metastatique": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "toucher_rectal": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "traitement_hormonal_anterieur": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "volume_prostatique": {
+        "citation": "",
+        "value": "Non_mentionne"
+      }
+    }
+  },
+  "b429c6c08b5d54d868afff11cfabc329db22420c3c9f7b1acf77f0be50656742": {
+    "variables": {
+      "adenocarcinome": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "atteinte_ganglionnaire": {
+        "citation": "Atteinte ganglionnaire N0.",
+        "value": "N0"
+      },
+      "autre_cancer_recent": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "chimiotherapie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "comorbidite_cardiaque": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "comorbidite_infectieuse": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "creatinine": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "diabete": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "ecog": {
+        "citation": "ECOG 1.",
+        "value": 1
+      },
+      "fonction_pulmonaire": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "gleason": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "grade_isup": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "hemoglobine": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "nombre_carottes": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "prostatectomie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "psa_diagnostic": {
+        "citation": "PSA diagnostique : 12 ng/mL.",
+        "value": 12
+      },
+      "radiotherapie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "stade_t": {
+        "citation": "Stade clinique T3a.",
+        "value": "T3a"
+      },
+      "statut_metastatique": {
+        "citation": "Statut métastatique M1a.",
+        "value": "M1a"
+      },
+      "toucher_rectal": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "traitement_hormonal_anterieur": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "volume_prostatique": {
+        "citation": "Volume prostatique : 55 cc.",
+        "value": 55
+      }
+    }
+  },
+  "bee0d26825203e76424548069d1c1b1b04d17aa72d208022308e29e9820501fa": {
+    "variables": {
+      "adenocarcinome": {
+        "citation": "Adénocarcinome prostatique identifié.",
+        "value": true
+      },
+      "atteinte_ganglionnaire": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "autre_cancer_recent": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "chimiotherapie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "comorbidite_cardiaque": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "comorbidite_infectieuse": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "creatinine": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "diabete": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "ecog": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "fonction_pulmonaire": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "gleason": {
+        "citation": "Score de Gleason : 8 (4+4).",
+        "value": "8 (4+4)"
+      },
+      "grade_isup": {
+        "citation": "Grade ISUP : 4.",
+        "value": 4
+      },
+      "hemoglobine": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "nombre_carottes": {
+        "citation": "12 carottes analysées.",
+        "value": 12
+      },
+      "prostatectomie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "psa_diagnostic": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "radiotherapie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "stade_t": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "statut_metastatique": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "toucher_rectal": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "traitement_hormonal_anterieur": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "volume_prostatique": {
+        "citation": "",
+        "value": "Non_mentionne"
+      }
+    }
+  },
+  "c48f3d6bc8da1d314e93285235b5e0cc11516902b2e75535350bd53721de128d": {
+    "variables": {
+      "adenocarcinome": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "atteinte_ganglionnaire": {
+        "citation": "Atteinte ganglionnaire N0.",
+        "value": "N0"
+      },
+      "autre_cancer_recent": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "chimiotherapie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "comorbidite_cardiaque": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "comorbidite_infectieuse": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "creatinine": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "diabete": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "ecog": {
+        "citation": "ECOG 0.",
+        "value": 0
+      },
+      "fonction_pulmonaire": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "gleason": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "grade_isup": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "hemoglobine": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "nombre_carottes": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "prostatectomie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "psa_diagnostic": {
+        "citation": "PSA diagnostique : 28 ng/mL.",
+        "value": 28
+      },
+      "radiotherapie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "stade_t": {
+        "citation": "Stade clinique T3a.",
+        "value": "T3a"
+      },
+      "statut_metastatique": {
+        "citation": "Statut métastatique M0.",
+        "value": "M0"
+      },
+      "toucher_rectal": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "traitement_hormonal_anterieur": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "volume_prostatique": {
+        "citation": "Volume prostatique : 55 cc.",
+        "value": 55
+      }
+    }
+  },
+  "d8ee13e63d6a8f596765095cb581343731bacd1ec2123ee469621d7903670574": {
+    "variables": {
+      "adenocarcinome": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "atteinte_ganglionnaire": {
+        "citation": "Atteinte ganglionnaire N0.",
+        "value": "N0"
+      },
+      "autre_cancer_recent": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "chimiotherapie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "comorbidite_cardiaque": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "comorbidite_infectieuse": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "creatinine": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "diabete": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "ecog": {
+        "citation": "ECOG 0.",
+        "value": 0
+      },
+      "fonction_pulmonaire": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "gleason": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "grade_isup": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "hemoglobine": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "nombre_carottes": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "prostatectomie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "psa_diagnostic": {
+        "citation": "PSA diagnostique : 28 ng/mL.",
+        "value": 28
+      },
+      "radiotherapie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "stade_t": {
+        "citation": "Stade clinique T3a.",
+        "value": "T3a"
+      },
+      "statut_metastatique": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "toucher_rectal": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "traitement_hormonal_anterieur": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "volume_prostatique": {
+        "citation": "Volume prostatique : 55 cc.",
+        "value": 55
+      }
+    }
+  },
+  "d9a14fb88fb49990f2d1ab3c32a0fa828282a7b6d1da872bb26837d548b9c9ca": {
+    "variables": {
+      "adenocarcinome": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "atteinte_ganglionnaire": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "autre_cancer_recent": {
+        "citation": "Autre cancer récent : non.",
+        "value": false
+      },
+      "chimiotherapie_anterieure": {
+        "citation": "Chimiothérapie antérieure : non.",
+        "value": false
+      },
+      "comorbidite_cardiaque": {
+        "citation": "Comorbidité cardiaque majeure : non.",
+        "value": false
+      },
+      "comorbidite_infectieuse": {
+        "citation": "Comorbidité infectieuse majeure : non.",
+        "value": false
+      },
+      "creatinine": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "diabete": {
+        "citation": "Diabète : non.",
+        "value": false
+      },
+      "ecog": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "fonction_pulmonaire": {
+        "citation": "Insuffisance pulmonaire majeure : non.",
+        "value": false
+      },
+      "gleason": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "grade_isup": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "hemoglobine": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "nombre_carottes": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "prostatectomie_anterieure": {
+        "citation": "Prostatectomie antérieure : non.",
+        "value": false
+      },
+      "psa_diagnostic": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "radiotherapie_anterieure": {
+        "citation": "Radiothérapie antérieure : non.",
+        "value": false
+      },
+      "stade_t": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "statut_metastatique": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "toucher_rectal": {
+        "citation": "Toucher rectal : suspect.",
+        "value": "suspect"
+      },
+      "traitement_hormonal_anterieur": {
+        "citation": "Traitement hormonal antérieur : non.",
+        "value": false
+      },
+      "volume_prostatique": {
+        "citation": "",
+        "value": "Non_mentionne"
+      }
+    }
+  },
+  "ed838147bf75ce74c5611f164424f9bc2d59bef74da2af5b7e94818c6f44d193": {
+    "variables": {
+      "adenocarcinome": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "atteinte_ganglionnaire": {
+        "citation": "Atteinte ganglionnaire N0.",
+        "value": "N0"
+      },
+      "autre_cancer_recent": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "chimiotherapie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "comorbidite_cardiaque": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "comorbidite_infectieuse": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "creatinine": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "diabete": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "ecog": {
+        "citation": "ECOG 0.",
+        "value": 0
+      },
+      "fonction_pulmonaire": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "gleason": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "grade_isup": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "hemoglobine": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "nombre_carottes": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "prostatectomie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "psa_diagnostic": {
+        "citation": "PSA diagnostique : 28 ng/mL.",
+        "value": 28
+      },
+      "radiotherapie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "stade_t": {
+        "citation": "Stade clinique T3a.",
+        "value": "T3a"
+      },
+      "statut_metastatique": {
+        "citation": "Statut métastatique Mx.",
+        "value": "Mx"
+      },
+      "toucher_rectal": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "traitement_hormonal_anterieur": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "volume_prostatique": {
+        "citation": "Volume prostatique : 55 cc.",
+        "value": 55
+      }
+    }
+  },
+  "f21a2ba6929d7ea92b62fdf8fb66e3edaf1c1595c37993eb7a4647e58240f3e0": {
+    "variables": {
+      "adenocarcinome": {
+        "citation": "Adénocarcinome prostatique identifié.",
+        "value": true
+      },
+      "atteinte_ganglionnaire": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "autre_cancer_recent": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "chimiotherapie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "comorbidite_cardiaque": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "comorbidite_infectieuse": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "creatinine": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "diabete": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "ecog": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "fonction_pulmonaire": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "gleason": {
+        "citation": "Score de Gleason : 8 (4+4).",
+        "value": "8 (4+4)"
+      },
+      "grade_isup": {
+        "citation": "Grade ISUP : 4.",
+        "value": 4
+      },
+      "hemoglobine": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "nombre_carottes": {
+        "citation": "12 carottes analysées.",
+        "value": 12
+      },
+      "prostatectomie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "psa_diagnostic": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "radiotherapie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "stade_t": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "statut_metastatique": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "toucher_rectal": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "traitement_hormonal_anterieur": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "volume_prostatique": {
+        "citation": "",
+        "value": "Non_mentionne"
+      }
+    }
+  },
+  "fa409e2394444402b78af41da205db2539798b70631f55e819f2f3dfc9072b99": {
+    "variables": {
+      "adenocarcinome": {
+        "citation": "Adénocarcinome prostatique identifié.",
+        "value": true
+      },
+      "atteinte_ganglionnaire": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "autre_cancer_recent": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "chimiotherapie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "comorbidite_cardiaque": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "comorbidite_infectieuse": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "creatinine": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "diabete": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "ecog": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "fonction_pulmonaire": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "gleason": {
+        "citation": "Score de Gleason : 8 (4+4).",
+        "value": "8 (4+4)"
+      },
+      "grade_isup": {
+        "citation": "Grade ISUP : 4.",
+        "value": 4
+      },
+      "hemoglobine": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "nombre_carottes": {
+        "citation": "12 carottes analysées.",
+        "value": 12
+      },
+      "prostatectomie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "psa_diagnostic": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "radiotherapie_anterieure": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "stade_t": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "statut_metastatique": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "toucher_rectal": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "traitement_hormonal_anterieur": {
+        "citation": "",
+        "value": "Non_mentionne"
+      },
+      "volume_prostatique": {
+        "citation": "",
+        "value": "Non_mentionne"
+      }
+    }
+  }
+}

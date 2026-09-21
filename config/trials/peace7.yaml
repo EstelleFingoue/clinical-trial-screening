@@ -1,0 +1,15 @@
+id: peace7
+label: "PEACE-7"
+purpose: "Démonstration de pré-screening sur le cœur clinique automatisable"
+inclusions:
+  - "Statut M0"
+  - "ECOG 0 ou 1"
+  - "Volume prostatique inférieur à 100 cc"
+  - "Au moins deux critères parmi Gleason ≥ 8, stade T3/T4 et PSA ≥ 20"
+exclusions:
+  - "Atteinte ganglionnaire N1"
+  - "Traitement hormonal, chimiothérapie, prostatectomie ou radiothérapie antérieurs"
+  - "Comorbidités majeures documentées par la démonstration"
+human_review:
+  - "Consentement et critères administratifs"
+  - "Validation médicale du dossier complet"

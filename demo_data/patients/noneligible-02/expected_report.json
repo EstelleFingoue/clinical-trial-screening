@@ -1,0 +1,282 @@
+{
+  "decisions": {
+    "obsapa": {
+      "criteria": {
+        "PSA_disponible": true,
+        "excl:chimiotherapie_anterieure": false,
+        "metastatique_M1": false
+      },
+      "decision": "non_eligible",
+      "human_review": [
+        "Validation médicale du dossier complet",
+        "Consentement et critères administratifs"
+      ],
+      "reason": "Maladie non métastatique M0",
+      "trial": "obsapa"
+    },
+    "peace7": {
+      "criteria": {
+        "ECOG_0_1": false,
+        "Gleason>=8": true,
+        "M0": true,
+        "PSA>=20": true,
+        "T3_T4": true,
+        "excl:N1": false,
+        "excl:autre_cancer_recent": false,
+        "excl:chimiotherapie_anterieure": false,
+        "excl:comorbidite_cardiaque": false,
+        "excl:comorbidite_infectieuse": false,
+        "excl:diabete": false,
+        "excl:fonction_pulmonaire": false,
+        "excl:prostatectomie_anterieure": false,
+        "excl:radiotherapie_anterieure": false,
+        "excl:traitement_hormonal_anterieur": false,
+        "volume<100": true
+      },
+      "decision": "non_eligible",
+      "human_review": [
+        "Validation médicale du dossier complet",
+        "Consentement et critères administratifs"
+      ],
+      "reason": "Critère obligatoire non respecté: ECOG_0_1",
+      "trial": "peace7"
+    }
+  },
+  "documents": [
+    {
+      "document_type": "anapath",
+      "page_count": 1,
+      "source_id": "synthetic:noneligible-02:anapath",
+      "text": "DOCUMENT ENTIÈREMENT SYNTHÉTIQUE — AUCUNE DONNÉE RÉELLE\nIdentifiant fictif : NONELIGIBLE-02\nAdénocarcinome prostatique identifié.\nScore de Gleason : 8 (4+4).\nGrade ISUP : 4.\n12 carottes analysées."
+    },
+    {
+      "document_type": "bilan",
+      "page_count": 1,
+      "source_id": "synthetic:noneligible-02:bilan",
+      "text": "DOCUMENT ENTIÈREMENT SYNTHÉTIQUE — BILAN\nHémoglobine : 14.2 g/dL.\nCréatininémie : 82 µmol/L."
+    },
+    {
+      "document_type": "rcp",
+      "page_count": 1,
+      "source_id": "synthetic:noneligible-02:rcp",
+      "text": "DOCUMENT ENTIÈREMENT SYNTHÉTIQUE — RCP\nVolume prostatique : 55 cc.\nPSA diagnostique : 28 ng/mL.\nStade clinique T3a.\nStatut métastatique M0.\nAtteinte ganglionnaire N0.\nECOG 2."
+    },
+    {
+      "document_type": "consultation",
+      "page_count": 1,
+      "source_id": "synthetic:noneligible-02:consultation",
+      "text": "DOCUMENT ENTIÈREMENT SYNTHÉTIQUE — CONSULTATION\nToucher rectal : suspect.\nTraitement hormonal antérieur : non.\nChimiothérapie antérieure : non.\nProstatectomie antérieure : non.\nRadiothérapie antérieure : non.\nDiabète : non.\nComorbidité cardiaque majeure : non.\nComorbidité infectieuse majeure : non.\nInsuffisance pulmonaire majeure : non.\nAutre cancer récent : non."
+    }
+  ],
+  "patient_id": "noneligible-02",
+  "profile": {
+    "conflicts": [],
+    "patient_id": "noneligible-02",
+    "variables": {
+      "adenocarcinome": {
+        "alternatives": [],
+        "confidence": "regex_exact",
+        "document_type": "anapath",
+        "evidence": "Adénocarcinome prostatique",
+        "method": "regex",
+        "name": "adenocarcinome",
+        "value": true
+      },
+      "atteinte_ganglionnaire": {
+        "alternatives": [],
+        "confidence": "llm_verified",
+        "document_type": "rcp",
+        "evidence": "Atteinte ganglionnaire N0.",
+        "method": "llm",
+        "name": "atteinte_ganglionnaire",
+        "value": "N0"
+      },
+      "autre_cancer_recent": {
+        "alternatives": [],
+        "confidence": "llm_verified",
+        "document_type": "consultation",
+        "evidence": "Autre cancer récent : non.",
+        "method": "llm",
+        "name": "autre_cancer_recent",
+        "value": false
+      },
+      "chimiotherapie_anterieure": {
+        "alternatives": [],
+        "confidence": "llm_verified",
+        "document_type": "consultation",
+        "evidence": "Chimiothérapie antérieure : non.",
+        "method": "llm",
+        "name": "chimiotherapie_anterieure",
+        "value": false
+      },
+      "comorbidite_cardiaque": {
+        "alternatives": [],
+        "confidence": "llm_verified",
+        "document_type": "consultation",
+        "evidence": "Comorbidité cardiaque majeure : non.",
+        "method": "llm",
+        "name": "comorbidite_cardiaque",
+        "value": false
+      },
+      "comorbidite_infectieuse": {
+        "alternatives": [],
+        "confidence": "llm_verified",
+        "document_type": "consultation",
+        "evidence": "Comorbidité infectieuse majeure : non.",
+        "method": "llm",
+        "name": "comorbidite_infectieuse",
+        "value": false
+      },
+      "creatinine": {
+        "alternatives": [],
+        "confidence": "regex_exact",
+        "document_type": "bilan",
+        "evidence": "Créatininémie : 82 µmol/L",
+        "method": "regex",
+        "name": "creatinine",
+        "value": 82
+      },
+      "diabete": {
+        "alternatives": [],
+        "confidence": "llm_verified",
+        "document_type": "consultation",
+        "evidence": "Diabète : non.",
+        "method": "llm",
+        "name": "diabete",
+        "value": false
+      },
+      "ecog": {
+        "alternatives": [],
+        "confidence": "llm_verified",
+        "document_type": "rcp",
+        "evidence": "ECOG 2.",
+        "method": "llm",
+        "name": "ecog",
+        "value": 2
+      },
+      "fonction_pulmonaire": {
+        "alternatives": [],
+        "confidence": "llm_verified",
+        "document_type": "consultation",
+        "evidence": "Insuffisance pulmonaire majeure : non.",
+        "method": "llm",
+        "name": "fonction_pulmonaire",
+        "value": false
+      },
+      "gleason": {
+        "alternatives": [],
+        "confidence": "regex_exact",
+        "document_type": "anapath",
+        "evidence": "Score de Gleason : 8 (4+4)",
+        "method": "regex",
+        "name": "gleason",
+        "value": "8 (4+4)"
+      },
+      "grade_isup": {
+        "alternatives": [],
+        "confidence": "regex_exact",
+        "document_type": "anapath",
+        "evidence": "ISUP : 4",
+        "method": "regex",
+        "name": "grade_isup",
+        "value": 4
+      },
+      "hemoglobine": {
+        "alternatives": [],
+        "confidence": "regex_exact",
+        "document_type": "bilan",
+        "evidence": "Hémoglobine : 14.2 g/dL",
+        "method": "regex",
+        "name": "hemoglobine",
+        "value": 14.2
+      },
+      "nombre_carottes": {
+        "alternatives": [],
+        "confidence": "regex_exact",
+        "document_type": "anapath",
+        "evidence": "12 carottes",
+        "method": "regex",
+        "name": "nombre_carottes",
+        "value": 12
+      },
+      "prostatectomie_anterieure": {
+        "alternatives": [],
+        "confidence": "llm_verified",
+        "document_type": "consultation",
+        "evidence": "Prostatectomie antérieure : non.",
+        "method": "llm",
+        "name": "prostatectomie_anterieure",
+        "value": false
+      },
+      "psa_diagnostic": {
+        "alternatives": [],
+        "confidence": "regex_exact",
+        "document_type": "rcp",
+        "evidence": "PSA diagnostique : 28 ng/mL",
+        "method": "regex",
+        "name": "psa_diagnostic",
+        "value": 28
+      },
+      "radiotherapie_anterieure": {
+        "alternatives": [],
+        "confidence": "llm_verified",
+        "document_type": "consultation",
+        "evidence": "Radiothérapie antérieure : non.",
+        "method": "llm",
+        "name": "radiotherapie_anterieure",
+        "value": false
+      },
+      "stade_t": {
+        "alternatives": [],
+        "confidence": "llm_verified",
+        "document_type": "rcp",
+        "evidence": "Stade clinique T3a.",
+        "method": "llm",
+        "name": "stade_t",
+        "value": "T3A"
+      },
+      "statut_metastatique": {
+        "alternatives": [],
+        "confidence": "llm_verified",
+        "document_type": "rcp",
+        "evidence": "Statut métastatique M0.",
+        "method": "llm",
+        "name": "statut_metastatique",
+        "value": "M0"
+      },
+      "toucher_rectal": {
+        "alternatives": [],
+        "confidence": "llm_verified",
+        "document_type": "consultation",
+        "evidence": "Toucher rectal : suspect.",
+        "method": "llm",
+        "name": "toucher_rectal",
+        "value": "suspect"
+      },
+      "traitement_hormonal_anterieur": {
+        "alternatives": [],
+        "confidence": "llm_verified",
+        "document_type": "consultation",
+        "evidence": "Traitement hormonal antérieur : non.",
+        "method": "llm",
+        "name": "traitement_hormonal_anterieur",
+        "value": false
+      },
+      "volume_prostatique": {
+        "alternatives": [],
+        "confidence": "regex_exact",
+        "document_type": "rcp",
+        "evidence": "Volume prostatique : 55 cc",
+        "method": "regex",
+        "name": "volume_prostatique",
+        "value": 55
+      }
+    }
+  },
+  "provider": "precomputed",
+  "provider_mode": "precomputed",
+  "warnings": [
+    "Données entièrement synthétiques.",
+    "Prototype de recherche: toute décision nécessite une validation humaine."
+  ]
+}

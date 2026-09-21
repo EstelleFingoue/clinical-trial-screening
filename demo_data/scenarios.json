@@ -1,0 +1,178 @@
+[
+  {
+    "category": "eligible_peace7",
+    "description": "M0, faible volume et trois facteurs de haut risque.",
+    "document_types": [
+      "anapath",
+      "bilan",
+      "rcp",
+      "consultation"
+    ],
+    "expected": {
+      "obsapa": "non_eligible",
+      "peace7": "eligible"
+    },
+    "id": "peace7-01",
+    "pdf_files": {
+      "anapath": "anapath.pdf",
+      "bilan": "bilan.pdf",
+      "consultation": "consultation.pdf",
+      "rcp": "rcp.pdf"
+    },
+    "title": "Profil Synthétique Alpha"
+  },
+  {
+    "category": "eligible_peace7",
+    "description": "M0, ECOG 1 et deux facteurs de haut risque.",
+    "document_types": [
+      "anapath",
+      "bilan",
+      "rcp",
+      "consultation"
+    ],
+    "expected": {
+      "obsapa": "non_eligible",
+      "peace7": "eligible"
+    },
+    "id": "peace7-02",
+    "pdf_files": {
+      "anapath": "anapath.pdf",
+      "bilan": "bilan.pdf",
+      "consultation": "consultation.pdf",
+      "rcp": "rcp.pdf"
+    },
+    "title": "Profil Synthétique Bêta"
+  },
+  {
+    "category": "eligible_obsapa",
+    "description": "Maladie M1 avec PSA disponible et sans chimiothérapie antérieure.",
+    "document_types": [
+      "anapath",
+      "bilan",
+      "rcp",
+      "consultation"
+    ],
+    "expected": {
+      "obsapa": "eligible",
+      "peace7": "non_eligible"
+    },
+    "id": "obsapa-01",
+    "pdf_files": {
+      "anapath": "anapath.pdf",
+      "bilan": "bilan.pdf",
+      "consultation": "consultation.pdf",
+      "rcp": "rcp.pdf"
+    },
+    "title": "Profil Synthétique Gamma"
+  },
+  {
+    "category": "eligible_obsapa",
+    "description": "Maladie M1, PSA disponible et ECOG 1.",
+    "document_types": [
+      "anapath",
+      "bilan",
+      "rcp",
+      "consultation"
+    ],
+    "expected": {
+      "obsapa": "eligible",
+      "peace7": "non_eligible"
+    },
+    "id": "obsapa-02",
+    "pdf_files": {
+      "anapath": "anapath.pdf",
+      "bilan": "bilan.pdf",
+      "consultation": "consultation.pdf",
+      "rcp": "rcp.pdf"
+    },
+    "title": "Profil Synthétique Delta"
+  },
+  {
+    "category": "indeterminable",
+    "description": "Statut métastatique Mx non résolu.",
+    "document_types": [
+      "anapath",
+      "bilan",
+      "rcp",
+      "consultation"
+    ],
+    "expected": {
+      "obsapa": "indeterminable",
+      "peace7": "indeterminable"
+    },
+    "id": "indeterminate-01",
+    "pdf_files": {
+      "anapath": "anapath.pdf",
+      "bilan": "bilan.pdf",
+      "consultation": "consultation.pdf",
+      "rcp": "rcp.pdf"
+    },
+    "title": "Profil Synthétique Epsilon"
+  },
+  {
+    "category": "indeterminable",
+    "description": "Statut métastatique non mentionné.",
+    "document_types": [
+      "anapath",
+      "bilan",
+      "rcp",
+      "consultation"
+    ],
+    "expected": {
+      "obsapa": "indeterminable",
+      "peace7": "indeterminable"
+    },
+    "id": "indeterminate-02",
+    "pdf_files": {
+      "anapath": "anapath.pdf",
+      "bilan": "bilan.pdf",
+      "consultation": "consultation.pdf",
+      "rcp": "rcp.pdf"
+    },
+    "title": "Profil Synthétique Zêta"
+  },
+  {
+    "category": "non_eligible",
+    "description": "M0 avec chimiothérapie antérieure documentée.",
+    "document_types": [
+      "anapath",
+      "bilan",
+      "rcp",
+      "consultation"
+    ],
+    "expected": {
+      "obsapa": "non_eligible",
+      "peace7": "non_eligible"
+    },
+    "id": "noneligible-01",
+    "pdf_files": {
+      "anapath": "anapath.pdf",
+      "bilan": "bilan.pdf",
+      "consultation": "consultation.pdf",
+      "rcp": "rcp.pdf"
+    },
+    "title": "Profil Synthétique Êta"
+  },
+  {
+    "category": "non_eligible",
+    "description": "M0 avec ECOG 2, incompatible avec PEACE-7.",
+    "document_types": [
+      "anapath",
+      "bilan",
+      "rcp",
+      "consultation"
+    ],
+    "expected": {
+      "obsapa": "non_eligible",
+      "peace7": "non_eligible"
+    },
+    "id": "noneligible-02",
+    "pdf_files": {
+      "anapath": "anapath.pdf",
+      "bilan": "bilan.pdf",
+      "consultation": "consultation.pdf",
+      "rcp": "rcp.pdf"
+    },
+    "title": "Profil Synthétique Thêta"
+  }
+]

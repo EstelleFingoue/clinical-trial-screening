@@ -1,0 +1,63 @@
+services:
+  app:
+    build:
+      context: .
+      target: runtime
+    environment:
+      GROQ_API_KEY: ${GROQ_API_KEY:-}
+      SCREENING_PROVIDER: ${SCREENING_PROVIDER:-groq}
+      OLLAMA_BASE_URL: http://ollama:11434/v1
+      SCREENING_TEMP_ROOT: /tmp/screening
+    ports:
+      - "${APP_PORT:-7860}:7860"
+    tmpfs:
+      - /tmp/screening:size=256m,mode=0700,uid=999,gid=999
+    read_only: true
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+    healthcheck:
+      test:
+        - CMD
+        - python
+        - -c
+        - "import urllib.request; urllib.request.urlopen('http://127.0.0.1:7860/api/v1/health', timeout=3)"
+      interval: 30s
+      timeout: 5s
+      retries: 5
+      start_period: 90s
+    deploy:
+      resources:
+        limits:
+          cpus: "2.0"
+          memory: 4g
+
+  ollama:
+    image: ollama/ollama:0.12.3
+    profiles: ["ollama"]
+    volumes:
+      - ollama-models:/root/.ollama
+    healthcheck:
+      test: ["CMD", "ollama", "list"]
+      interval: 10s
+      timeout: 5s
+      retries: 12
+    deploy:
+      resources:
+        limits:
+          cpus: "4.0"
+          memory: 8g
+
+  ollama-init:
+    image: ollama/ollama:0.12.3
+    profiles: ["ollama"]
+    environment:
+      OLLAMA_HOST: http://ollama:11434
+    command: ["pull", "${OLLAMA_MODEL:-qwen3:8b}"]
+    depends_on:
+      ollama:
+        condition: service_healthy
+
+volumes:
+  ollama-models:

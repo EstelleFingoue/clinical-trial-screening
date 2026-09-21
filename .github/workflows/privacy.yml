@@ -1,0 +1,32 @@
+name: Privacy
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  privacy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: gitleaks/gitleaks-action@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: astral-sh/setup-uv@v6
+        with:
+          version: "0.11.28"
+      - run: uv python install 3.12
+      - run: uv sync --frozen --extra dev
+      - run: uv run python scripts/generate_demo_data.py
+      - run: uv run pytest tests/integration/test_api_and_scenarios.py -q
+      - name: Reject historical-project references
+        run: |
+          if rg -n "projet_estelle|/Users/.+/" demo_data; then
+            echo "Forbidden private-path reference found"
+            exit 1
+          fi

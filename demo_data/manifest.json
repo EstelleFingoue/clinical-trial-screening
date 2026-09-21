@@ -1,0 +1,231 @@
+{
+  "files": [
+    {
+      "bytes": 28281,
+      "image_only": true,
+      "pages": 1,
+      "path": "patients/peace7-01/pdf/anapath.pdf",
+      "sha256": "648eb84e375d8a23d0d53a7a1be789518832a8c78af84d06e6a71430e143b26f"
+    },
+    {
+      "bytes": 19557,
+      "image_only": true,
+      "pages": 1,
+      "path": "patients/peace7-01/pdf/bilan.pdf",
+      "sha256": "9b64e3b607f361ad69c85be0c97c072bfa3852d234d30fe83a0a2df556527662"
+    },
+    {
+      "bytes": 29035,
+      "image_only": true,
+      "pages": 1,
+      "path": "patients/peace7-01/pdf/rcp.pdf",
+      "sha256": "85ab07fe909299bc244fa8294e074cb8b02775d8b1ce8c11f629937b082893ab"
+    },
+    {
+      "bytes": 40662,
+      "image_only": true,
+      "pages": 1,
+      "path": "patients/peace7-01/pdf/consultation.pdf",
+      "sha256": "058df43d3c49a9ca0f5a4d949d2da9435a13e171c932aa56034bf052d77d9bf0"
+    },
+    {
+      "bytes": 28488,
+      "image_only": true,
+      "pages": 1,
+      "path": "patients/peace7-02/pdf/anapath.pdf",
+      "sha256": "855010b72b789f1068d53e700f4bcb0c132d482bca41fe86c3826399a59b658e"
+    },
+    {
+      "bytes": 19573,
+      "image_only": true,
+      "pages": 1,
+      "path": "patients/peace7-02/pdf/bilan.pdf",
+      "sha256": "70b44adca790de0ca8ada43ffeacc554d4b5725fa573f0c2e401ff816c0b4ca3"
+    },
+    {
+      "bytes": 28794,
+      "image_only": true,
+      "pages": 1,
+      "path": "patients/peace7-02/pdf/rcp.pdf",
+      "sha256": "be6190c60f2870acf7d381a7d4fd46e197fda33414e116b6b4c183b8b621aaf1"
+    },
+    {
+      "bytes": 40651,
+      "image_only": true,
+      "pages": 1,
+      "path": "patients/peace7-02/pdf/consultation.pdf",
+      "sha256": "9ff00d2bc50251f48fce24a65ea1bf9b33d3bed72c9fc82c65790a57e91e45c0"
+    },
+    {
+      "bytes": 28516,
+      "image_only": true,
+      "pages": 1,
+      "path": "patients/obsapa-01/pdf/anapath.pdf",
+      "sha256": "ad9bc02abf9ed562401d91fe7eb251e0a035c2ed8cd2c55ecf39fc79784da837"
+    },
+    {
+      "bytes": 19552,
+      "image_only": true,
+      "pages": 1,
+      "path": "patients/obsapa-01/pdf/bilan.pdf",
+      "sha256": "463dae395e5a36ebeaa89f3d70321458e192b48aa3affb9c40c750ab02c3c0fc"
+    },
+    {
+      "bytes": 28968,
+      "image_only": true,
+      "pages": 1,
+      "path": "patients/obsapa-01/pdf/rcp.pdf",
+      "sha256": "19e8fd70877ebe04d7c1e8d0a8cd1a8cf94cd4645c3b5c1a5e509d180dc1f8a3"
+    },
+    {
+      "bytes": 40647,
+      "image_only": true,
+      "pages": 1,
+      "path": "patients/obsapa-01/pdf/consultation.pdf",
+      "sha256": "45c514f0b43f0aff467b53f5cbd6ef80323f4daeb3255d24c71a06de703a1cf1"
+    },
+    {
+      "bytes": 28643,
+      "image_only": true,
+      "pages": 1,
+      "path": "patients/obsapa-02/pdf/anapath.pdf",
+      "sha256": "8cbcd0564a0a3a13867bdd6e2904c9103ef7b20031f99adf54ff207acce62dea"
+    },
+    {
+      "bytes": 19557,
+      "image_only": true,
+      "pages": 1,
+      "path": "patients/obsapa-02/pdf/bilan.pdf",
+      "sha256": "0ee22409c71c66211f25101560e3a96bf687686d1b0eca2bf9ebcb8cebfe3355"
+    },
+    {
+      "bytes": 28523,
+      "image_only": true,
+      "pages": 1,
+      "path": "patients/obsapa-02/pdf/rcp.pdf",
+      "sha256": "727a94629bdb8688f6aebd43d5946a8e92c59183259b2fb0b6f81707305912fa"
+    },
+    {
+      "bytes": 40645,
+      "image_only": true,
+      "pages": 1,
+      "path": "patients/obsapa-02/pdf/consultation.pdf",
+      "sha256": "88053bb87bc4d2d0794e8a8e8d3c7b94ecff7bd29f0a8518861004d514f41ffc"
+    },
+    {
+      "bytes": 28648,
+      "image_only": true,
+      "pages": 1,
+      "path": "patients/indeterminate-01/pdf/anapath.pdf",
+      "sha256": "63452564b96cc760bbb2ec965df3920495ce40cc49fe3d1fd1e12088d4846d2b"
+    },
+    {
+      "bytes": 19553,
+      "image_only": true,
+      "pages": 1,
+      "path": "patients/indeterminate-01/pdf/bilan.pdf",
+      "sha256": "9ed0fe45c690881c5a7b3b0463484eee87aa96e884bbb41acb29286415ba86d2"
+    },
+    {
+      "bytes": 29044,
+      "image_only": true,
+      "pages": 1,
+      "path": "patients/indeterminate-01/pdf/rcp.pdf",
+      "sha256": "cc377a9172d689f57aff3910f9af4af674d334f08dde51b20fc7ae13179f0f95"
+    },
+    {
+      "bytes": 40652,
+      "image_only": true,
+      "pages": 1,
+      "path": "patients/indeterminate-01/pdf/consultation.pdf",
+      "sha256": "39f8a6ed29dc34eff7da6bbd707747f7ac46a39dfb9f1841cd7d7ba3e330a487"
+    },
+    {
+      "bytes": 28792,
+      "image_only": true,
+      "pages": 1,
+      "path": "patients/indeterminate-02/pdf/anapath.pdf",
+      "sha256": "4cf9b69860d95e3785c0811005f62e68ea79e2501bf61b37e0873d067ae32233"
+    },
+    {
+      "bytes": 19560,
+      "image_only": true,
+      "pages": 1,
+      "path": "patients/indeterminate-02/pdf/bilan.pdf",
+      "sha256": "5d149e490b270a279c7974f3a6449954ed4c357743f9465dd92ff50cccb626bf"
+    },
+    {
+      "bytes": 26394,
+      "image_only": true,
+      "pages": 1,
+      "path": "patients/indeterminate-02/pdf/rcp.pdf",
+      "sha256": "f3576e6e58c65d46a79fdbadf6b21d2305a4395d9b46b798a2ee0499c187eeb3"
+    },
+    {
+      "bytes": 40654,
+      "image_only": true,
+      "pages": 1,
+      "path": "patients/indeterminate-02/pdf/consultation.pdf",
+      "sha256": "3cba4b655a6cfd9c5de5ae85a0622acceb53c95695b4a33648f4b015e9307e44"
+    },
+    {
+      "bytes": 28489,
+      "image_only": true,
+      "pages": 1,
+      "path": "patients/noneligible-01/pdf/anapath.pdf",
+      "sha256": "d7bab1f9d5ab7bc6f6312f00b9be38458970c424c14ae2f1cdc73489459f085d"
+    },
+    {
+      "bytes": 19566,
+      "image_only": true,
+      "pages": 1,
+      "path": "patients/noneligible-01/pdf/bilan.pdf",
+      "sha256": "2d5230c2b42da6cb29f6c30ed7bdf18230ce63cff8e68064e0dad93d6d8587c0"
+    },
+    {
+      "bytes": 29064,
+      "image_only": true,
+      "pages": 1,
+      "path": "patients/noneligible-01/pdf/rcp.pdf",
+      "sha256": "729fe5d71f78aaabf07e2d5ad6f5506a26400f352651e7b3f229a9ae1648f913"
+    },
+    {
+      "bytes": 40637,
+      "image_only": true,
+      "pages": 1,
+      "path": "patients/noneligible-01/pdf/consultation.pdf",
+      "sha256": "2e43a9a90a7a74c81868873699b2547af4c54941a102bdfba4159a1c85018f74"
+    },
+    {
+      "bytes": 28631,
+      "image_only": true,
+      "pages": 1,
+      "path": "patients/noneligible-02/pdf/anapath.pdf",
+      "sha256": "2b7e4552cc527a39094623ff416a62c83de24ff6c5132e4843bd9f4f2b1e30e2"
+    },
+    {
+      "bytes": 19553,
+      "image_only": true,
+      "pages": 1,
+      "path": "patients/noneligible-02/pdf/bilan.pdf",
+      "sha256": "9e1ff38b02e15f1da17f8a0e0432d85a54c017f1744575e7dae110f59fa55866"
+    },
+    {
+      "bytes": 29022,
+      "image_only": true,
+      "pages": 1,
+      "path": "patients/noneligible-02/pdf/rcp.pdf",
+      "sha256": "8662256d38c8adb22d5d0d28cbf1be6a157cd1ce31da7cca444bc0342ce973d0"
+    },
+    {
+      "bytes": 40653,
+      "image_only": true,
+      "pages": 1,
+      "path": "patients/noneligible-02/pdf/consultation.pdf",
+      "sha256": "209e420cfd8c53c06c14bdbf27dedc1a7a2f824b30d815bbeca99326c23797fb"
+    }
+  ],
+  "generator_seed": 20260920,
+  "scenario_count": 8,
+  "synthetic_only": true
+}

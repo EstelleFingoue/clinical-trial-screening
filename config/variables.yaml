@@ -1,0 +1,91 @@
+document_types: [anapath, bilan, rcp, consultation, courrier]
+
+variables:
+  adenocarcinome:
+    method: regex
+    sources: [anapath, rcp, consultation, courrier]
+    allowed: [true, false, Non_mentionne, Inconnu]
+  gleason:
+    method: regex
+    sources: [anapath, rcp, consultation, courrier]
+    allowed: []
+  grade_isup:
+    method: regex
+    sources: [anapath, rcp, consultation, courrier]
+    allowed: [1, 2, 3, 4, 5, Non_mentionne, Inconnu]
+  nombre_carottes:
+    method: regex
+    sources: [anapath]
+    allowed: []
+  toucher_rectal:
+    method: llm
+    sources: [consultation, rcp, courrier]
+    allowed: [normal, suspect, Non_mentionne, Inconnu]
+  stade_t:
+    method: llm
+    sources: [rcp, consultation, courrier, anapath]
+    allowed: [T1, T2, T3, T4, Tx, Non_mentionne, Inconnu]
+  statut_metastatique:
+    method: llm
+    sources: [rcp, consultation, courrier]
+    allowed: [M0, M1, Mx, Non_mentionne, Inconnu]
+  atteinte_ganglionnaire:
+    method: llm
+    sources: [rcp, consultation, courrier]
+    allowed: [N0, N1, Nx, Non_mentionne, Inconnu]
+  volume_prostatique:
+    method: regex
+    sources: [rcp, consultation, courrier]
+    allowed: []
+  psa_diagnostic:
+    method: regex
+    sources: [anapath, rcp, consultation, courrier]
+    allowed: []
+  ecog:
+    method: llm
+    sources: [rcp, consultation, courrier]
+    allowed: [0, 1, 2, 3, 4, Non_mentionne, Inconnu]
+  hemoglobine:
+    method: regex
+    sources: [bilan]
+    allowed: []
+  creatinine:
+    method: regex
+    sources: [bilan]
+    allowed: []
+  traitement_hormonal_anterieur:
+    method: llm
+    sources: [consultation, courrier, rcp]
+    allowed: [true, false, Non_mentionne, Inconnu]
+  chimiotherapie_anterieure:
+    method: llm
+    sources: [consultation, courrier, rcp]
+    allowed: [true, false, Non_mentionne, Inconnu]
+  prostatectomie_anterieure:
+    method: llm
+    sources: [consultation, courrier, rcp]
+    allowed: [true, false, Non_mentionne, Inconnu]
+  radiotherapie_anterieure:
+    method: llm
+    sources: [consultation, courrier, rcp]
+    allowed: [true, false, Non_mentionne, Inconnu]
+  diabete:
+    method: llm
+    sources: [consultation, courrier, rcp]
+    allowed: [true, false, Non_mentionne, Inconnu]
+  comorbidite_cardiaque:
+    method: llm
+    sources: [consultation, courrier, rcp]
+    allowed: [true, false, Non_mentionne, Inconnu]
+  comorbidite_infectieuse:
+    method: llm
+    sources: [consultation, courrier, rcp]
+    allowed: [true, false, Non_mentionne, Inconnu]
+  fonction_pulmonaire:
+    method: llm
+    sources: [consultation, courrier, rcp]
+    allowed: [true, false, Non_mentionne, Inconnu]
+  autre_cancer_recent:
+    method: llm
+    sources: [consultation, courrier, rcp]
+    allowed: [true, false, Non_mentionne, Inconnu]

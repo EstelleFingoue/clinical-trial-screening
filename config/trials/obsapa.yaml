@@ -1,0 +1,13 @@
+id: obsapa
+label: "OBSAPA"
+purpose: "Démonstration de pré-screening sur le cœur clinique automatisable"
+inclusions:
+  - "Cancer de la prostate métastatique M1"
+  - "PSA de référence disponible"
+exclusions:
+  - "Chimiothérapie antérieure documentée"
+human_review:
+  - "Hormonosensibilité"
+  - "Temporalité des traitements antérieurs"
+  - "Consentement et critères administratifs"
+  - "Validation médicale du dossier complet"
